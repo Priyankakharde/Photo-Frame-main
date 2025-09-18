@@ -81,7 +81,7 @@ http://localhost:3000
 
 > ➕ deployed link here :
 
-`https://your-deployed-link.vercel.app`
+https://photo-frame-main.vercel.app/
 
 ---
 
