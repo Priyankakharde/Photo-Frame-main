@@ -32,7 +32,7 @@ Make sure you have these installed before running the project:
 
 ##  If you cloned the project from GitHub
 
-1. 🔁 Clone the repo
+1. 🔁 git push
 
 ```bash
 git clone https://github.com/your-username/photo-frame-ui.git
