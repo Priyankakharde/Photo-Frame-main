@@ -30,13 +30,12 @@ Make sure you have these installed before running the project:
 
 # 🚀 Quick — Step by step 
 
-##  If you cloned the project from GitHub
+##  If you push the project from GitHub
 
 1. 🔁 git push
 
 ```bash
-git clone https://github.com/your-username/photo-frame-ui.git
-cd photo-frame-ui
+https://github.com/Priyankakharde/Photo-Frame-main.git
 ```
 
 2. 📦 Install dependencies
