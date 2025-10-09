@@ -24,7 +24,6 @@ Make sure you have these installed before running the project:
 
 * **Node.js** v18 or newer — check with `node -v`
 * **npm** (comes with Node) or **pnpm/yarn** if you prefer
-* (Optional) **Git** if you plan to clone from a repository
 
 ---
 
