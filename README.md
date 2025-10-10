@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📸 Photo Frame — E‑Commerce UI
 
-## Getting Started
+> A friendly, responsive **frontend-only** Photo Frame store UI built with Next.js and Tailwind CSS. Great for portfolios and learning modern React/Next.js patterns. The app lets users browse frames, add/remove items to **Cart** and **Wishlist**, and persists data locally using `localStorage`.
 
-First, run the development server:
+---
+
+# 📚 Project description
+
+This project is a clean, modern UI for an online photo-frame store. It focuses on UX and front-end features (no backend required):
+
+* Product gallery with details
+* Add to Cart / Wishlist functionality
+* Cart & Wishlist persistence using `localStorage`
+* Mobile-first responsive layout
+* Designed as a portfolio-ready project for frontend developers
+
+---
+
+# ⚙️ Prerequisites
+
+Make sure you have these installed before running the project:
+
+* **Node.js** v18 or newer — check with `node -v`
+* **npm** (comes with Node) or **pnpm/yarn** if you prefer
+
+---
+
+# 🚀 Quick — Step by step 
+
+##  If you push the project from GitHub
+
+1. 🔁 git push
+
+```bash
+https://github.com/Priyankakharde/Photo-Frame-main.git
+```
+
+2. 📦 Install dependencies
+
+```bash
+npm install
+# or
+# yarn
+# pnpm install
+```
+
+3. ▶️ Start the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. 🌐 Open in your browser
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+# 🧩 Technologies used
 
-To learn more about Next.js, take a look at the following resources:
+* **Next.js (v15)** — React framework for server/client rendering and routing
+* **Tailwind CSS (v4)** — utility-first CSS for rapid UI development
+* **React** — UI library
+* **localStorage** — client-side persistence for cart/wishlist
+* (Optional) **Vercel / Netlify** — recommended for deployment
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# 🚢 Deploying 
 
-## Deploy on Vercel
+**Vercel (recommended for Next.js)**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Push your project to GitHub.
+2. Create an account on Vercel and click **Import Project** → connect your GitHub repo.
+3. Vercel auto-detects Next.js — just click **Deploy**.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> ➕ deployed link here :
+
+https://photo-frame-main.vercel.app/
+---
+
