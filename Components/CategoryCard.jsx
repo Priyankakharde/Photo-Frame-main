@@ -1,4 +1,5 @@
 "use client";
+
 export default function CategoryCard({ category }) {
   return (
     <a

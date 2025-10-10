@@ -1,4 +1,5 @@
 "use client";
+
 import { FiShoppingCart, FiX } from "react-icons/fi";
 import { useCart } from "../Context/CartContext";
 
